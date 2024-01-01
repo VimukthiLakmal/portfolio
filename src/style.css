@@ -255,6 +255,7 @@ button:focus {
 
 .home-header {
   padding-top: 80px !important;
+  font-size: 150%;
 }
 
 .home-section {
@@ -425,6 +426,11 @@ button:focus {
 
   .footer-body {
     text-align: center !important;
+  }
+  .home-header {
+    padding-top: 80px !important;
+    font-size: 100%;
+    text-align: center;
   }
 }
 
